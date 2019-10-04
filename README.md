@@ -4,9 +4,9 @@
 # This project makes use of Holberton School's Checker API. 
 ## The checker itself is a utility that runs a students code against a test suite to check if the solution is correct and accounts for edge cases if applicable.
 
-<!---######---> `AirBnB_clone` is a multi-phase project created for a Holberton School project.
+<!---######--->  Check Alert is a terminal run script
 
-<!---######---> `Phase 1` consists of creating a console, or command interpreter, to manage AirBnB objects. Can create new objects, retrieve objects, update attributes, destroy objects.
+<!---######--->
 
 ---
 ### Usage
